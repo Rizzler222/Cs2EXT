@@ -1,0 +1,6 @@
+Starting search for Steam Overlay window...
+Found gameoverlayui.exe process. PID: 34888
+Process executable: C:\Program Files (x86)\Steam\GameOverlayUI.exe
+No window found for gameoverlayui.exe process.
+Steam overlay window not found!
+Steam overlay window not found.
