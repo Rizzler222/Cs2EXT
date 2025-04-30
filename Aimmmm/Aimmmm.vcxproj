@@ -138,13 +138,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_dx11.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_win32.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_demo.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_draw.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_tables.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_widgets.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_dx11.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_demo.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_draw.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_tables.cpp" />
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_widgets.cpp" />
     <ClCompile Include="Aimbot.cpp" />
     <ClCompile Include="Config.cpp" />
     <ClCompile Include="Entity.cpp" />
@@ -152,11 +152,11 @@
     <ClCompile Include="Triggerbot.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_dx11.h" />
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_win32.h" />
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imconfig.h" />
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui.h" />
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_internal.h" />
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_dx11.h" />
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_win32.h" />
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imconfig.h" />
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imgui.h" />
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imgui_internal.h" />
     <ClInclude Include="Aimbot.h" />
     <ClInclude Include="Config.h" />
     <ClInclude Include="Entity.h" />

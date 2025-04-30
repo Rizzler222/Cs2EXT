@@ -14,33 +14,12 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Source Files\ImGui">
-      <UniqueIdentifier>{1fad7200-121d-4431-9088-651ac44209fe}</UniqueIdentifier>
+      <UniqueIdentifier>{0bd97736-b51b-4d47-b1e4-9761d87dcd1e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_demo.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_draw.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_dx11.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_win32.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_tables.cpp">
-      <Filter>Source Files\ImGui</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_widgets.cpp">
-      <Filter>Source Files\ImGui</Filter>
     </ClCompile>
     <ClCompile Include="Entity.cpp">
       <Filter>Source Files</Filter>
@@ -54,6 +33,27 @@
     <ClCompile Include="Aimbot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_demo.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_draw.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_tables.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\imgui_widgets.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_dx11.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_win32.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Memory.h">
@@ -61,21 +61,6 @@
     </ClInclude>
     <ClInclude Include="Vector.h">
       <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imconfig.h">
-      <Filter>Source Files\ImGui</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui.h">
-      <Filter>Source Files\ImGui</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_dx11.h">
-      <Filter>Source Files\ImGui</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\backends\imgui_impl_win32.h">
-      <Filter>Source Files\ImGui</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\imgui-1.91.8\imgui-1.91.8\imgui_internal.h">
-      <Filter>Source Files\ImGui</Filter>
     </ClInclude>
     <ClInclude Include="Config.h">
       <Filter>Source Files</Filter>
@@ -91,6 +76,21 @@
     </ClInclude>
     <ClInclude Include="Aimbot.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imconfig.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imgui.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\imgui_internal.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_dx11.h">
+      <Filter>Source Files\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\imgui-master (1)\imgui-master\backends\imgui_impl_win32.h">
+      <Filter>Source Files\ImGui</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
