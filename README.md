@@ -10,7 +10,7 @@ You will first need to extract
 You will then open the .sln and you should see some errors. 
 
 
-![Screenshot!](rizz2.png)
+![Screenshot!](image_2025-04-30_130508200.png)
 
 
 Then switch mode to release 
