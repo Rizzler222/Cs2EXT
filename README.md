@@ -38,3 +38,6 @@ Where you can then move it to another file
 
 
 # IM NOT RESPONSIBLE FOR YOU, DONT GET BANNED
+
+# MADE BY ME lucidv61 on DC
+
